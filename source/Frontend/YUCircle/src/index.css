@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+:root {
+  --yorku-red: #E31837;
+  --yorku-blue: #3AC2EF;
+  --yorku-light-grey: #E1DFDC;
+}
+
+* {
+  font-family: "IBM Plex Sans", sans-serif;
+}
